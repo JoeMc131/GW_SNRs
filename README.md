@@ -19,7 +19,7 @@ This code lets the user enter in parameters for a simple merger and will provide
 ## Examples
 
 ### IO example
-!(images/IO_example.png)
+![io-example](images/IO_example.png)
 
 ### SNR waterfall plot for LISA (top) and ET(bottom)
-!(images/Waterfall_plot.pdf)
+![waterfall-plot](images/Waterfall_plot.pdf)
