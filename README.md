@@ -1,4 +1,4 @@
-# GW_SNRs
+This code is adapted from Robson et al. 2018 (https://arxiv.org/abs/1803.01944, https://github.com/eXtremeGravityInstitute/LISA_Sensitivity) to include the Einstein Telescope and Cosmic Explorer. 
 
 ### GW_detector.py
 
