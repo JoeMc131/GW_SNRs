@@ -22,4 +22,4 @@ This code lets the user enter in parameters for a simple merger and will provide
 ![io-example](images/IO_example.png)
 
 ### SNR waterfall plot for LISA (top) and ET(bottom)
-![waterfall-plot](images/Waterfall_plot.pdf)
+![waterfall-plot](images/Waterfall_plot.png)
