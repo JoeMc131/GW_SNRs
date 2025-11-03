@@ -15,3 +15,11 @@ This code takes the parameters for a black hole binary: primary mass, secondary 
 This code lets the user enter in parameters for a simple merger and will provide a plot showing the strain of the signal with the detector to compare it against, along with the SNR that the merger creates with that detector. The order of the parameters is as follows:
 
     python Merger_IO.py [Mass 1 (Solar Mass)] [Mass 2 (Solar Mass)] [redshift] [detector]
+
+## Examples
+
+### IO example
+!(images/IO_example.png)
+
+### SNR waterfall plot for LISA (top) and ET(bottom)
+!(images/Waterfall_plot.pdf)
